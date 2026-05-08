@@ -5,7 +5,7 @@ quick quality of life tweaks for CUNY schools.
 stop using microsoft authenticator
 
 [authentication factors](https://ssologin.cuny.edu/oaa/rui/index.html)
-<a href="[https://ssologin.cuny.edu/oaa/rui/index.html]" target="_blank" rel="noopener noreferrer">Set it up here</a>   
+<a href="https://ssologin.cuny.edu/oaa/rui/index.html" target="_blank" rel="noopener noreferrer">Set it up here</a>   
 
 ## CUNY assignment tracker 
  google calender / apple calender etc* Automatic sync
