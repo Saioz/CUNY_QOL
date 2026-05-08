@@ -2,10 +2,11 @@
 quick quality of life tweaks for CUNY schools. 
 
 ## Bypass mobile authentication 
-stop using microsoft authenticator
+stop using microsoft authenticator <br /> 
 
-[Set it up here](https://ssologin.cuny.edu/oaa/rui/index.html) or open in new tab https://ssologin.cuny.edu/oaa/rui/index.html
- 
+open in new tab https://ssologin.cuny.edu/oaa/rui/index.html <br /> 
+
+After logging in and authenticating -> go to authentication factors -> add FIDO passkey -> save passkey in browser, icloud etc -> manage -> set as default
 
 ## CUNY assignment tracker 
  google calender / apple calender etc* Automatic sync
