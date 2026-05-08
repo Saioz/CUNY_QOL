@@ -14,7 +14,4 @@ stop using microsoft authenticator
 
 
 
-## RateMyProfessor within schedulebuilder 
-
-
 
