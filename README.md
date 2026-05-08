@@ -1,5 +1,5 @@
 # CUNY_QOL
-quick quality of life tweaks for CUNY schools. <br /> 
+quick quality of life tweaks for anyone in CUNY. <br /> 
 <br /> 
 <br /> 
 
