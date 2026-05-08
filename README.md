@@ -4,7 +4,7 @@ quick quality of life tweaks for CUNY schools.
 ## Bypass mobile authentication 
 stop using microsoft authenticator
 
-[authentication factors](ssologin.cuny.edu/oaa/rui/index.html)
+[authentication factors](https://ssologin.cuny.edu/oaa/rui/index.html)
 
 ## CUNY assignment tracker 
  google calender / apple calender etc* Automatic sync
