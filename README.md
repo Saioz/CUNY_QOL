@@ -44,7 +44,7 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
 
  
- [Click here](https://github.com/Saioz/schedulebuilderExportCUNY)
+ [Link to Calender Extension](https://github.com/Saioz/schedulebuilderExportCUNY)
 
 
 
