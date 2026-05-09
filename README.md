@@ -13,7 +13,10 @@ open in new tab https://ssologin.cuny.edu/oaa/rui/index.html <br />
 <br /> 
 
 After logging in and authenticating -> go to authentication factors -> add FIDO passkey -> save passkey in browser, <br />  icloud etc
--> manage authentication factors -> set as default * if you use another computer without access to the passkey, you will have to choose to login with the cuny authenticator again*
+-> manage authentication factors -> set as default 
+
+<br />
+* if you use another computer without access to the passkey, you will have to choose to login with the cuny authenticator again*
 
 works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
