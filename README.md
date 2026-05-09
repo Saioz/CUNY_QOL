@@ -52,6 +52,8 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
  <br /> 
 
  ## If this was useful please star the repo / share it with your friends! 
+ <br /> 
+ ** everything is open-sourced, so if you're skeptical about something feel free to look through it **
 
 
 
