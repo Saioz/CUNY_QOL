@@ -40,7 +40,7 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
 ## Export classes from schedulebuilder to apple calender / google calender 
  google calender / apple calender
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1e2eddf2-1219-40a2-b5fa-1700286c7654" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/1e2eddf2-1219-40a2-b5fa-1700286c7654" />
 
 
  
