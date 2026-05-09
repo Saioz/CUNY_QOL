@@ -4,7 +4,7 @@ quick quality of life tweaks for anyone in CUNY. <br />
 <br /> 
 
 ## Bypass mobile authentication 
-stop using microsoft authenticator <br /> 
+stop using your phone every time you need to open CUNY sites <br /> 
 <br /> 
 
 
