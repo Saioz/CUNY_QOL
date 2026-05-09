@@ -25,7 +25,7 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 <br /> 
 <br /> 
 
-## CUNY assignment tracker 
+## CUNY assignment tracking
  google calender / apple calender etc* Automatic sync
 <br /> 
 <br /> 
