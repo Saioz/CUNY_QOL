@@ -2,11 +2,12 @@
 quick quality of life tweaks for anyone in CUNY. <br /> 
 <br /> 
 <br /> 
+<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5b71fc47-9626-412e-833f-981b0eaba56a" />
 
 ## Bypass mobile authentication 
 stop using your phone every time you need to open CUNY sites <br /> 
 <br /> 
-<img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5b71fc47-9626-412e-833f-981b0eaba56a" />
+<img width="700" height="590" alt="image" src="https://github.com/user-attachments/assets/a7aea140-50ad-42c0-8efc-d955102185b7" />
 
 
 open in new tab https://ssologin.cuny.edu/oaa/rui/index.html <br /> 
