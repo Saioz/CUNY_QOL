@@ -28,6 +28,7 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
  go to brightspace -> scroll down until you see calender -> subscribe -> copy URL -> go to google calender / apple calender -> create new calender and paste the URL you "subscribed" to. <br /> 
  This way, your assignments and events are added to calender and automatically update based on brightspace. 
 
+<img width="1152" height="490" alt="image" src="https://github.com/user-attachments/assets/ec80d879-70a6-457c-a908-cbf589b36526" />
 
 
 
@@ -35,6 +36,9 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
 ## Export classes from schedulebuilder to apple calender / google calender 
  google calender / apple calender
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/1e2eddf2-1219-40a2-b5fa-1700286c7654" />
+
+
  
  [Click here](https://github.com/Saioz/schedulebuilderExportCUNY)
 
