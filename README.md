@@ -6,7 +6,7 @@ quick quality of life tweaks for anyone in CUNY. <br />
 ## Bypass mobile authentication 
 stop using your phone every time you need to open CUNY sites <br /> 
 <br /> 
-
+https://imgs.search.brave.com/GiKr9iu3Qm5a6rD01WfppFq9HRBmQtXiddLVzxVcvPA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wNzQv/MTc3LzQ0Mi9zbWFs/bC90aHVtYi11cC1l/bW9qaS1jaGFyYWN0/ZXItaXNvbGF0ZWQt/b24tdHJhbnNwYXJl/bnQtYmFja2dyb3Vu/ZC1mb3ItbWVzc2Fn/aW5nLXN0aWNrZXJz/LXNvY2lhbC1tZWRp/YS1hbmQtZnVuLWRl/c2lnbnMtZnJlZS1w/bmcucG5n
 
 open in new tab https://ssologin.cuny.edu/oaa/rui/index.html <br /> 
 <br /> 
