@@ -32,7 +32,7 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
 
 
-## Schedulebuilder class tracker 
+## Export classes from schedulebuilder to apple calender / google calender 
  google calender / apple calender
  
  [Click here](https://github.com/Saioz/schedulebuilderExportCUNY)
