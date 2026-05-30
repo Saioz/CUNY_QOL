@@ -48,6 +48,8 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
 
 
 ## Outlook auto-forwarding / Outlook -> email 
+
+Click the gear on the top right -> go to forwarding -> add email -> enjoy 
 <img width="706" height="440" alt="image" src="https://github.com/user-attachments/assets/263996e1-e227-425d-9d28-9e215a46a5cd" />
 
 <img width="1500" height="800" alt="image" src="https://github.com/user-attachments/assets/01bfdfbf-f8bc-44de-a866-afa4e974228f" />
