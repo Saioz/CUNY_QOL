@@ -47,6 +47,10 @@ works with Bitwarden, Google Password Manager, iCloud Keychain etc+
  [Link to Calender Extension](https://github.com/Saioz/schedulebuilderExportCUNY)
 
 
+## Outlook auto-forwarding / Outlook -> email 
+
+<img width="1944" height="1308" alt="image" src="https://github.com/user-attachments/assets/01bfdfbf-f8bc-44de-a866-afa4e974228f" />
+
  <br /> 
  <br /> 
  <br /> 
