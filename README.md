@@ -4,7 +4,7 @@ quick quality of life tweaks for anyone in CUNY. <br />
 <br /> 
 <img width="350" height="350" alt="image" src="https://github.com/user-attachments/assets/5b71fc47-9626-412e-833f-981b0eaba56a" />
 
-## Bypass mobile authentication 
+## Alternative mobile authentication 
 stop using your phone every time you need to open CUNY sites <br /> 
 <br /> 
 <img width="350" height="295" alt="Screenshot 2026-05-08 at 10 10 01 PM" src="https://github.com/user-attachments/assets/9090bae1-e38f-4e05-86bc-b40fb0839e15" />
